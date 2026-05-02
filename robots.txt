@@ -1,7 +1,7 @@
 # Sitemap for FIFA 2026 Album Tips
-# https://swap26.pages.dev/tips/
+# https://worldcup2026stickertips.pages.dev/
 
 User-agent: *
 Allow: /
 
-Sitemap: https://swap26.pages.dev/tips/sitemap.xml
+Sitemap: https://worldcup2026stickertips.pages.dev/sitemap.xml
