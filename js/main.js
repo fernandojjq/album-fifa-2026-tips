@@ -3,7 +3,7 @@
 document.addEventListener('DOMContentLoaded', function() {
   initNavbar();
   initMobileMenu();
-  initScrollAnimations();
+  // initScrollAnimations(); // Disabled to improve performance
   initFAQ();
   initSmoothScroll();
 });
@@ -167,5 +167,5 @@ function animateCounters() {
   counters.forEach(counter => observer.observe(counter));
 }
 
-// Initialize counter animation
-document.addEventListener('DOMContentLoaded', animateCounters);
+// Counter animation disabled
+// document.addEventListener('DOMContentLoaded', animateCounters);

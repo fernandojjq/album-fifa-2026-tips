@@ -392,7 +392,7 @@ h4 { font-size: clamp(22px, 3vw, 28px); }
   background-color: var(--primary);
 }
 
-.hero__video {
+.hero__image {
   position: absolute;
   top: 0;
   left: 0;
@@ -437,7 +437,6 @@ h4 { font-size: clamp(22px, 3vw, 28px); }
   font-weight: 600;
   color: var(--accent);
   margin-bottom: 24px;
-  animation: pulse 2s ease-in-out infinite;
 }
 
 @keyframes pulse {
